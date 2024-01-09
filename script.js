@@ -19,21 +19,33 @@ let countdown;
 const quizArray = [
   {
     id: "0",
-    question: "Which is the most widely spoken language in the world?",
-    options: ["Spanish", "Mandarin", "English", "German"],
-    correct: "Mandarin",
+    question: "Question 1",
+    options: ["Hi", "Bye", "HiBye", "ByeHi"],
+    correct: "Hi",
   },
   {
     id: "1",
-    question: "Which is the only continent in the world without a desert?",
-    options: ["North America", "Asia", "Africa", "Europe"],
-    correct: "Europe",
+    question: "Question 2",
+    options: ["Hi", "Bye", "HiBye", "ByeHi"],
+    correct: "Hi",
   },
   {
     id: "2",
-    question: "Who invented Computer?",
-    options: ["Charles Babbage", "Henry Luce", "Henry Babbage", "Charles Luce"],
-    correct: "Charles Babbage",
+    question: "Question 3",
+    options: ["Hi", "Bye", "HiBye", "ByeHi"],
+    correct: "Hi",
+  },
+  {
+    id: "3",
+    question: "Question 4",
+    options: ["Hi", "Bye", "HiBye", "ByeHi"],
+    correct: "Hi",
+  },
+  {
+    id: "4",
+    question: "Question 5",
+    options: ["Hi", "Bye", "HiBye", "ByeHi"],
+    correct: "Hi",
   },
 ];
 
