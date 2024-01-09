@@ -51,9 +51,7 @@ const quizArray = [
 
 //Restart Quiz
 restart.addEventListener("click", () => {
-  initial();
-  displayContainer.classList.remove("hide");
-  scoreContainer.classList.add("hide");
+  alert("I understand the quiz is very ineresting, but unfortunately you can attempt only once.");
 });
 
 //Next Button
