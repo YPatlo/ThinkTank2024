@@ -19,33 +19,33 @@ let countdown;
 const quizArray = [
   {
     id: "0",
-    question: "Question 1",
-    options: ["Hi", "Bye", "HiBye", "ByeHi"],
-    correct: "Hi",
+    question: "Most Plastics are used for ",
+    options: ["Water Bottles", "Making Products", "Packaging of dry items", "None"],
+    correct: "Packing of dry items",
   },
   {
     id: "1",
-    question: "Question 2",
-    options: ["Hi", "Bye", "HiBye", "ByeHi"],
-    correct: "Hi",
+    question: "Microalgae can ",
+    options: ["Absorb Carbon Dioxide", "Release Oxygen", "Produce Fuel", "All of the above"],
+    correct: "All of the above",
   },
   {
     id: "2",
-    question: "Question 3",
-    options: ["Hi", "Bye", "HiBye", "ByeHi"],
-    correct: "Hi",
+    question: "An Electrostatic precipitator works on the basis of ",
+    options: ["Coulumb's Law", "Gravitaional Law", "Law of Electricity", "None of the above"],
+    correct: "Coulumb's Law",
   },
   {
     id: "3",
-    question: "Question 4",
-    options: ["Hi", "Bye", "HiBye", "ByeHi"],
-    correct: "Hi",
+    question: "Lipids are made of",
+    options: ["Hydrocarbons", "Glycerol", "Phosphorus and Nitrogen Groups", "All of the above"],
+    correct: "All of the above",
   },
   {
     id: "4",
-    question: "Question 5",
-    options: ["Hi", "Bye", "HiBye", "ByeHi"],
-    correct: "Hi",
+    question: "Paper releases _______ greenhouse gases than producing plastic.",
+    options: ["less", "equal", "more", "I don't know."],
+    correct: "more",
   },
 ];
 
