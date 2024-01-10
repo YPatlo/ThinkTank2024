@@ -51,7 +51,7 @@ const quizArray = [
 
 //Restart Quiz
 restart.addEventListener("click", () => {
-  alert("I understand the quiz is very ineresting, but unfortunately you can attempt only once.");
+  alert("I understand the quiz is very interesting, but unfortunately you can attempt only once.");
 });
 
 //Next Button
