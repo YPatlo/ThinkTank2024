@@ -21,7 +21,7 @@ const quizArray = [
     id: "0",
     question: "Most Plastics are used for ",
     options: ["Water Bottles", "Making Products", "Packaging of dry items", "None"],
-    correct: "Packing of dry items",
+    correct: "Packaging of dry items",
   },
   {
     id: "1",
